@@ -5,10 +5,11 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="Microsoft.ML" Version="3.0.1" />
-    <PackageReference Include="Microsoft.ML.ImageAnalytics" Version="3.0.1" />
-    <PackageReference Include="Microsoft.ML.TorchSharp" Version="0.21.1" />
-    <PackageReference Include="TorchSharp-cpu" Version="0.101.5" />
+    <PackageReference Include="Microsoft.Bcl.Memory" Version="9.0.14" />
+    <PackageReference Include="Microsoft.ML" Version="5.0.0" />
+    <PackageReference Include="Microsoft.ML.ImageAnalytics" Version="5.0.0" />
+    <PackageReference Include="Microsoft.ML.TorchSharp" Version="0.23.0" />
+    <PackageReference Include="TorchSharp-cpu" Version="0.105.2" />
   </ItemGroup>
   <ItemGroup Label="MLObjectDetection">
     <None Include="MLObjectDetection.mlnet">
