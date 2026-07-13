@@ -1,5 +1,4 @@
 <Solution>
-  <Project Path="../MLObjectDetection_ConsoleApp/MLObjectDetection_ConsoleApp.csproj" />
   <Project Path="../MLObjectDetection_WebApi/MLObjectDetection_WebApi.csproj" />
   <Project Path="MLObjectDetection.csproj" />
 </Solution>
